@@ -1,0 +1,32 @@
+.home{
+    width: 100%;
+    height: 490px;
+    text-align: center;
+    /* border: 1px solid blue; */
+    background-image: url(../img/Rectangle\ 3.png);
+    color: white;
+}
+
+.home-child{
+    padding: 50px 0;
+}
+
+.home-child-box{
+    width: 250px;
+    height: 250px;
+    border: 1px solid white;
+    margin: auto;
+    padding: 90px 0;
+}
+
+.home-child-box1 h1{
+    font-size: 45px;
+    font-family: "Stick No Bills", serif;
+}
+
+.home-child-box2{
+    border-top: 2px solid white;
+    width: 125px;
+    margin: auto;
+    font-size: 15px;
+}

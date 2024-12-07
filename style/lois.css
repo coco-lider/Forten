@@ -1,0 +1,48 @@
+.lois{
+    width: 100%;
+    height: 1100px;
+    /* border: 1px solid yellow; */
+    padding: 100px 0 0;
+    font-family: "Playfair Display", serif;
+}
+
+.lois-child{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.lois-child-box{
+    width: 260px;
+    height: 405px;
+    /* border: 1px solid green; */
+}
+
+.lois-child-img{
+    width: 260px;
+    height: 325px;
+    text-align: center;
+    padding: 50px 0 0;
+    background: #191B1C;
+}
+
+.lois-child-title{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.lois-line{
+    width: 100%;
+    text-align: center;
+}
+
+.lois-child1{
+    width: 200px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.lois2{
+    margin-top: 50px;
+}

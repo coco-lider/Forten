@@ -1,0 +1,101 @@
+.katolog{
+    width: 100%;
+    height: 1460px;
+    /* border: solid 1px red; */
+    font-family: "Playfair Display", serif;
+
+}
+
+.katolog-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+
+.katolog-child{
+    width: 960px;
+    height: 730px;
+    /* border: 2px solid black; */
+}
+
+.katolog-child-inline{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.katolog-inline{
+    margin: auto;
+    width: 210px;
+    /* border-top: 2px solid black; */
+    margin-top: 20px;
+}
+
+.katolog-box-child{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+
+.katolog-child-box{
+    width: 240px;
+    height: 426px;
+}
+
+.katolog-img-box{
+    width: 240px;
+    height: 320px;
+    background-color:#191B1C;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.new{
+    padding: 500px 0 0;
+    text-align: center;
+    background-image: url(../img/Rectangle\ 8.png);
+}
+
+
+.new h1{
+    color: white;
+}
+
+.katolog-button{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 10px;
+    background-color: transparent;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.katolog-button2{
+    width: 240px;
+    font-size: 20px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.katolog-koleks{
+    text-align: center;
+    padding: 350px 0 0;
+}
+
+.katolog-koleks p {
+    margin: 40px 0;
+}
+
+.katolog-child-box3{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/Rectangle\ 9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
