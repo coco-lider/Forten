@@ -9,31 +9,9 @@
     color: white;
 }
 
-/* Kompyuter uchun (katta ekranlar) */
-@media (min-width: 1024px) {
-    body {
-      font-size: 18px;
-    }
-  }
   
-  /* Planshetlar uchun */
-  @media (max-width: 1023px) and (min-width: 768px) {
-    body {
-      font-size: 16px;
-    }
-  }
-  
-  /* Mobil telefonlar uchun */
-  @media (max-width: 767px) {
-    body {
-      font-size: 14px;
-    }
-  }
-  
-
-
 .contenr1{
-    width: 1931px;
+    width: 1290px;
     height: 3000px;
     /* border: 1px solid red; */
     margin: auto;
@@ -43,7 +21,7 @@
 
 .contenr{
     width: 1200px;
-    /* border: 1px solid black; */
+    /* border: 1px solid rgb(255, 255, 255); */
     margin: auto;
     flex: 1 1 300px;
     
